@@ -1,0 +1,2 @@
+# Currency-Authenticator
+The project deals with the classification of the notes of a particular currency (whether authentic or inauthentic) using some features of the note. Here, the algorithms like logistic regression, support vector classifier, decision trees, gaussian naïve Bayes and self- implemented k- means algorithms are used and after comparison amongst them any one can be selected for further work in other aspects.
